@@ -1,8 +1,8 @@
-# Project Assignment: Short Video Recommender System (KuaiRec)
+# Tiktok Video Recommender Systems (KuaiRec dataset)
 
 ## Introduction
 
-Welcome to my proposal solution for recommanding videos using the KuaiRec dataset. I am RUFF Maxime, EPITA SCIA 2026, and I am happy to guide you here in my journey of designing my first recommender system!
+Welcome to my experiments in Tiktok video recommendation using the KuaiRec dataset! The project aims to use different techniques and models for building and evaluating user and content based recommender systems.
 
 ---
 
